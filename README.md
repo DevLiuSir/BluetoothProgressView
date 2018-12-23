@@ -3,8 +3,8 @@
 <p align="center"> <b> BluetoothProgressView is a animation view for Bluetooth connection.</b></p> 
 
 ![Languages](https://img.shields.io/badge/language-swift%20|%20objc-orange.svg?style=flat)
-[![swift  version](https://img.shields.io/badge/swift-4.0.3+-blue.svg?style=flat)](https://developer.apple.com/swift/)
-![xcode version](https://img.shields.io/badge/xcode-9+-yellow.svg)
+[![swift  version](https://img.shields.io/badge/swift-5.1+-blue.svg?style=flat)](https://developer.apple.com/swift/)
+![xcode version](https://img.shields.io/badge/xcode-11.2+-yellow.svg)
 ![build ](https://img.shields.io/appveyor/ci/gruntjs/grunt/master.svg)
 ![platform](https://img.shields.io/badge/platform-ios-lightgrey.svg)
 ![https://github.com/ChinaHackers/BluetoothProgressView/blob/master/LICENSE](https://img.shields.io/github/license/ChinaHackers/BluetoothProgressView.svg)
